@@ -36,7 +36,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=r0sen-ritter&theme=oldie&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=r0sen-ritter&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 </div>
 
