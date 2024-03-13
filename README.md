@@ -4,10 +4,10 @@
 ## 🌐 Socials:
 
 
-[![](https://visitcount.itsvg.in/api?id=r0sen-ritter&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rosen.ritter) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rosenritter) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adr0n4ught)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rosenritter) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adr0n4ught)
 
 ## Reach me at safinm007@gmail.com
 
