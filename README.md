@@ -7,8 +7,8 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rosenritter)
-## Reach me at safinm007@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rosenritter)
+[![Mail](https://img.shields.io/badge/-gmail-%232c3e50?style=for-the-badge&logo=gmail)](mailto:safinm007@gmail.com)
 
 
 </div>
